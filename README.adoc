@@ -1,0 +1,23 @@
+= Über dieses Repository
+
+Dieses Repository enthält die TEI-Quelldatei sowie die abgeleiteten Text- und HTML-Dateien eines E-Books, das bei https://www.gutenberg.org/[Project Gutenberg] veröffentlicht wurde. Wie die bei Project Gutenberg veröffentlichte Version ist auch dieses E-Book in den USA urheberrechtsfrei. Es wird kein Anspruch auf den Urheberrechtsstatus außerhalb der USA erhoben.
+
+Die in diesem Repository gepflegte Version kann geringfügig von der bei Project Gutenberg gepflegten Version abweichen. In der Regel werden Korrekturen zuerst hier vorgenommen und anschließend bei Project Gutenberg aktualisiert. Wenn Sie in diesem Text auf ein Problem stoßen, melden Sie es bitte hier.
+
+== Über dieses E-Book
+
+[cols="1,3"]
+|===
+|Feld |Wert
+
+|Titel |Altneuland
+|Autor |Theodor Herzl (1860–1904)
+|Verlag |Project Gutenberg, Urbana, Illinois, USA., 2025-10-31
+|Veröffentlichungsdatum |2025-10-31
+|Verfügbarkeit |Dieses E-Book darf von jeder Person überall kostenlos und nahezu ohne jegliche Einschränkungen genutzt werden. Sie dürfen es unter den Bedingungen der Project-Gutenberg-Lizenz, die diesem E-Book beiliegt oder online unter https://www.gutenberg.org/[www.gutenberg.org] verfügbar ist, kopieren, weitergeben oder wiederverwenden. Dieses E-Book wurde vom Online Distributed Proofreading Team unter https://www.pgdp.net/[www.pgdp.net].
+|Anzahl der Wörter |78880 (ungefähr 290 Seiten) 
+|Stichwort |Jews -- Fiction
+|Stichwort |Jewish fiction
+|PG-E-Book-Nummer |https://www.gutenberg.org/ebooks/77162[77162]
+|QR-Code zum Herunterladen a|image::Processed/images@1/qr77162.png[QR code,148,148]
+|===
